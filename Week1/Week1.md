@@ -10,7 +10,7 @@
 - [x] Learn about the Terminal (DONE 25/06)
 - [x] Learn about Semantic HTML (DONE 24/06)
 - [x] Learn about Accessibility (DONE 23/06)
-- [ ] Sign up for JavaScript 30:
+- [x] Sign up for JavaScript 30: (DONE 26/06)
   - [ ] JS30: complete the JavaScript Drum Kit project
   - [ ] JS30: complete the CSS + JS Clock project
 - [x] create a repo for my pre-apprenticeship learning (DONE 25/06)
@@ -45,6 +45,5 @@ Also need to be active on Twitter:
 - [x] 23/06 ___Modern JS___: Template Literals, Shorthand properties
 - [x] 24/06 ___Modern JS___: isNaN. ___Arrays___: Basics, Empty
 - [x] 25/06 ___Modern JS___: Generators. ___Arrays___: Element access,  Element assignment, Stack
-- [ ] 26/06
 - [ ] 28/06
 - [ ] 29/06
