@@ -11,8 +11,8 @@
 - [x] Learn about Semantic HTML (DONE 24/06)
 - [x] Learn about Accessibility (DONE 23/06)
 - [x] Sign up for JavaScript 30: (DONE 26/06)
-  - [ ] JS30: complete the JavaScript Drum Kit project
-  - [ ] JS30: complete the CSS + JS Clock project
+  - [x] JS30: complete the JavaScript Drum Kit project (DONE 27/06)
+  - [x] JS30: complete the CSS + JS Clock project (DONE 28/06)
 - [x] create a repo for my pre-apprenticeship learning (DONE 25/06)
 - [x] Learn about Markdown (DONE 25/06)
 - [ ] Implement ES6 array methods a for loops
@@ -34,7 +34,7 @@ Also need to be active on Twitter:
 - [x] 23/06 [Webpage Accessibility and Lighthouse Tool](https://twitter.com/michWills99/status/1407474917487095811?s=20) - __TIL__
 - [x] 24/06 [Codewars Kata - Without the letter "E"](https://twitter.com/michWills99/status/1408099868283899905?s=20) - __TIL__
 - [x] 25/06 [Generators](https://twitter.com/michWills99/status/1408535637389684744?s=20) - __TIL__. Generators with Execute Program
-- [ ] 28/06
+- [x] 28/06 [Linux Commands Handbook](https://twitter.com/freeCodeCamp/status/1409482214639820800?s=20) - __Retweet__
 - [ ] 29/06
 
 ## Execute Program
@@ -45,5 +45,5 @@ Also need to be active on Twitter:
 - [x] 23/06 ___Modern JS___: Template Literals, Shorthand properties
 - [x] 24/06 ___Modern JS___: isNaN. ___Arrays___: Basics, Empty
 - [x] 25/06 ___Modern JS___: Generators. ___Arrays___: Element access,  Element assignment, Stack
-- [ ] 28/06
+- [x] 28/06 ___Modern JS___: Shorthand methods, Rest parameters, Accessors in object literals, Computed properties
 - [ ] 29/06
