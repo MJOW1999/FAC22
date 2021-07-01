@@ -17,13 +17,14 @@
 - [ ]  __JS30__: Work through [Array Cardio 1](https://courses.wesbos.com/account/access/60d7a25c8981fd4f947017c5/view/194130346)
 - [ ]  __Execute Program__: Continue with _Modern JavaScript_ and _JavaScript Arrays_. Also start working on ___Concurrency__.
 - [ ]  __Execute Program__: Attempt at least one problem per day.
-- [ ]  __Employment__: tbc
+- [ ]  __Employment__: Research Tom Dignan (_CTO - __Apolitical___)
 
 ### Extras:
 
 
 ## Twitter TIL or retweet
 - [x] 30/06: [Arrays are Objects](https://twitter.com/michWills99/status/1410252523768889344?s=20) - __TIL__.
+- [x] 01/07: [None in JavaScript](https://twitter.com/michWills99/status/1410708270327676931?s=20) - __TIL__.
 
 
 ## Execute Program
