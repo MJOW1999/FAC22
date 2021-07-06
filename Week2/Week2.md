@@ -7,7 +7,7 @@
 ## To-do list:
 
 - [x] __CSS Layouts__: Work through [CSS Layouts workshop](https://learn.foundersandcoders.com/workshops/css-layout/). (DONE 05/07)
-- [ ] __CSS Layouts__: Build a [projects gallery](https://learn.foundersandcoders.com/course/syllabus/pre-apprenticeship-2/project/).
+- [x] __CSS Layouts__: Build a [projects gallery](https://learn.foundersandcoders.com/course/syllabus/pre-apprenticeship-2/project/). (DONE 06/07)
 - [x] __CSS Grid__: Complete CSS Grid Garden. (DONE 30/06)
 - [ ] __CSS Grid__: Recreate a [BBC News style homepage](https://github.com/bobbysebolao/learn-css-grid) using CSS Grid.
 - [x] __A11y__: Look into [ARIA Labels](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/) (DONE 05/07)
@@ -28,6 +28,7 @@
 - [x] 02/07: [Asychronous code and setTimeout](https://twitter.com/michWills99/status/1411083014256398338?s=20) - __TIL__.
 - [x] 04/07: [Join with Reduce](https://twitter.com/michWills99/status/1411819924704665602?s=20) - __TIL__.
 - [x] 05/07: [ARIA Labels](https://twitter.com/michWills99/status/1412133992720121870?s=20) - __TIL__.
+- [x] 06/07: [Includes() with Sets](https://twitter.com/michWills99/status/1412378348018442254?s=20) - __TIL__.
 
 
 ## Execute Program
@@ -37,5 +38,6 @@
 - [x] 02/07: ___Arrays___: Join, Index of, Empty slots, flat and flatMap. ___Concurrency___: setTimeout
 - [x] 04/07: ___Arrays___: Reduce, All true, Implement join, Sum squares of odds 
 - [x] 05/07: ___Modern JS___: Places where destructuring is allowed, Nested destructuring, Arrow functions
+- [x] 06/07: ___Modern JS___: New number methods, Spread, Sets. ___Arrays___: Implement Filter With Reduce, Reduce right, Find index, Sort, Sort by word length, Shift
 
 
