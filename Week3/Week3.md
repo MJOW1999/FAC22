@@ -1,4 +1,4 @@
-# Week 1 (07/07/21 - 14/07/21)
+# Week 3 (07/07/21 - 14/07/21)
 
 > [Schedule for Week 3](https://learn.foundersandcoders.com/course/syllabus/pre-app-3/schedule/).
 
@@ -26,7 +26,7 @@
 
 - [x] 08/07: [Completed JS Arrays](https://twitter.com/michWills99/status/1413519203852767241?s=20)
 - [x] 09/07: [Function naming](https://twitter.com/michWills99/status/1413536266826698766?s=20)
-- [ ] 10/07:
+- [ ] 10/07: [JSON stringify and parse](https://twitter.com/michWills99/status/1414002349077667844?s=20)
 - [ ] 11/07:
 
 ### Execute Program
@@ -34,4 +34,5 @@
 - [x] 07/07 ___Arrays___: Rotate Right
 - [x] 08/07 ___Arrays___: Find, Reverse, Implement Reverse, Negative array indexes, Implement find - __COURSE COMPLETED__
 - [x] 09/07 ___Modern JS___: Classes, Function name property
+- [x] 10/07 ___Modern JS___: JSON stringify and parse
 
