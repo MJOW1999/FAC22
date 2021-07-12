@@ -1,6 +1,6 @@
 # Technical Spikes - Week 3 #
 
-## CSS Architechure
+## CSS Architecture
 
 #### Resources
 - [CSS Guidelines](https://cssguidelin.es/)
@@ -14,6 +14,21 @@
 3. How can composition help us build UIs?
 
 ### Answers
+
+1. CSS naming conventions are hugely useful in making your code more strict, more transparent, and more informative. A good naming convention can help when working in a team, as everything needs to be clear so every member understands. A good naming convention tells us what type of thing a class does, where it can be used and what it might be related to. We can use BEM (_Block_, _Element_, _Modifier_) for example when deciding names. The __block__ being the sole root of the component, the __element__ being a component part of the block and the __modifier__ being a variant or extension of the block.
+
+```
+.room { } // BLOCK - Item
+  .room__door { } // ELEMENT - A door is a part of a room
+.room--kitchen { } // MODIFIER - A kitchen is a type/variant of a room
+```
+
+2. The problem with specificity is that it sets precedents and trumps that cannot simply be undone. Specificity can prevent things from working as expected when moved into different environments and limit your ability to extend and manipulate a codebase.
+The use of __IDs__ can cause problems when it comes to specificity as not only are IDs inherently non-reusable, they are also vastly more specific than any other selector, and therefore become specificity anomalies. 
+
+3. Composition can help us build UIs through the use of layout primitives. A design system that does not leverage primitives is similarly problematic. If every component in your pattern library follows its own rules for layout, inefficiencies and inconsistencies will abound.
+Layout primitives each have a simple responsibility: "space elements vertically", "pad elements evenly", "separate elements horizontally", etc. They are designed to be used in composition, as parents, children, or siblings of one another. They are also intrinsically responsive. That is, it will wrap and reconfigure internally to make sure the content is visible (and well-spaced) to fit any context/screen.
+
 
 ## Responsive Design
 
