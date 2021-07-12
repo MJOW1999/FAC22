@@ -113,10 +113,103 @@ With this one example, we save two lines of code. This may not seem like much bu
 - [A Whole Bunch of Amazing Stuff Pseudo Elements Can Do](https://css-tricks.com/pseudo-element-roundup/)
 - [Under-Engineered Custom Radio Buttons and Checkboxen](https://adrianroselli.com/2017/05/under-engineered-custom-radio-buttons-and-checkboxen.html)
 
-### Questions
+### 1. What are “combinator” selectors? Can you provide examples where they’re useful?
 
-1. What are “combinator” selectors? Can you provide examples where they’re useful?
-2. What are pseudo-elements? Can you provide examples where they’re useful?
-3. How might you create custom-styled checkboxes using both of the above?
+ A __combinator__ is something that explains the relationship between the selectors. Examples include:
+ - The __child combinator__ ```>```, which selects nodes that are direct children of the first element.
+    - __Example__: ```ul > li``` will match all ```<li>``` elements that are nested directly inside a ```<ul>``` element.
+- The __adjacent sibling combinator__ ```+```, which selects adjacent siblings. This means that the second element directly follows the first, and both share the same parent.
+    - __Example__: ```h2 + p``` will match all ```<p>``` elements that directly follow an ```<h2>```.
+- The __descendant combinator__ ``` ``` (space), which selects nodes that are descendants of the first element.
+    - __Example__: ```div span``` will match all ```<span>``` elements that are inside a `<div>` element. 
 
-### Answers
+---
+### 2. What are pseudo-elements? Can you provide examples where they’re useful?
+
+Examples of pseudo-elements are: ```::before``` and ```::after```.  There are many things we can do with pseudo-elements, including:
+- __Simulate ```float: center```__: There isn't a value of center for the float property. We can simulate it using the following code:
+```
+  #l:before, #r:before { 
+    content: ""; 
+    width: 125px; 
+    height: 250px; 
+  }
+  #l:before { 
+    float: right; 
+  }
+  #r:before { 
+    float: left; 
+  }
+```
+- __Label blocks of code with the language it is in__
+```
+<pre rel="CSS"></pre>
+```
+```
+pre:after {
+  content: attr(rel);
+  position: absolute;
+  top: 22px;
+  right: 12px;
+}
+```
+- __Create a body border__
+```
+body:before, body:after {
+  content: "";
+  position: fixed;
+  background: #900;
+  left: 0;
+  right: 0;
+  height: 10px;
+}
+body:before {
+  top: 0;
+}
+body:after {
+  bottom: 0;
+}
+body {
+  border-left: 10px solid #900;
+  border-right: 10px solid #900;
+}
+```
+
+---
+### 3. How might you create custom-styled checkboxes using both of the above?
+
+- We can create the animation for the custom radio button using pseudo elements, like so:
+
+`
+input[type=radio]:checked + label::before {
+  background-color: #00f;
+  box-shadow: inset 0 0 0 .15em rgba(255, 255, 255, .95);
+}
+`
+This gives the radio button a fill and shadow.
+
+- Instead of using `display: none`, the class `visually-hidden` is used. After this, we can create some fake visible replacement controls, using both of the above - the `::before` pseudo element and the `+` combinator:
+```
+input[type=radio] + label::before,
+input[type=checkbox] + label::before {
+  content: '';
+  background: #fff;
+  border: .1em solid rgba(0, 0, 0, .75);
+  background-color: rgba(255, 255, 255, .8);
+  display: block;
+  box-sizing: border-box;
+  float: left;
+  width: 1em;
+  height: 1em;
+  margin-left: -1.5em;
+  margin-top: .15em;
+  vertical-align: top;
+  cursor: pointer;
+  text-align: center;
+  transition: all .1s ease-out;
+}
+
+input[type=radio] + label::before {
+  border-radius: 100%;
+}
+```
