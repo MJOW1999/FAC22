@@ -1,4 +1,4 @@
-# Week 3 (07/07/21 - 14/07/21)
+# Week 3 (07/07/21 - 13/07/21)
 
 > [Schedule for Week 3](https://learn.foundersandcoders.com/course/syllabus/pre-app-3/schedule/).
 
@@ -15,7 +15,7 @@
 - [x] __Technical Spikes__: __Advanced CSS__ using [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors), [Pseudo Elements](https://css-tricks.com/pseudo-element-roundup/), [Custom Checkboxes](https://adrianroselli.com/2017/05/under-engineered-custom-radio-buttons-and-checkboxen.html) DONE 12/07
 - [x] __JS30__: Complete [Array Cardio 2](https://courses.wesbos.com/account/access/60d7a25c8981fd4f947017c5/view/194130101) - DONE 07/07
 - [x] __JS30__: Complete [Flex Panels Image Gallery](https://courses.wesbos.com/account/access/60d7a25c8981fd4f947017c5/view/194130264) - DONE 08/07
-- [ ] __Execute Program__: Continue with _Modern JavaScript_ and _JavaScript Arrays_ and _Concurrency_. Also start working on __Regular Expressions__ & __SQL__.
+- [x] __Execute Program__: Continue with _Modern JavaScript_ and _JavaScript Arrays_ and _Concurrency_. Also start working on __Regular Expressions__ & __SQL__.
 - [x] __Khan Academy__: Start algorithms course.
 - [ ] __Employment__: Research Tom Dignan (_CTO - __Apolitical___)
 - [ ] __Employment__: Research Siebe Van Dijck (_Founder - __This is Undefined___)
@@ -24,10 +24,11 @@
 
 ### Twitter TIL or retweet
 
-- [x] 08/07: [Completed JS Arrays](https://twitter.com/michWills99/status/1413519203852767241?s=20)
-- [x] 09/07: [Function naming](https://twitter.com/michWills99/status/1413536266826698766?s=20)
-- [x] 10/07: [JSON stringify and parse](https://twitter.com/michWills99/status/1414002349077667844?s=20)
-- [x] 12/07: [Set union](https://twitter.com/michWills99/status/1414646156022452228?s=20)
+- [x] 08/07: [Completed JS Arrays](https://twitter.com/michWills99/status/1413519203852767241?s=20) - __TIL__
+- [x] 09/07: [Function naming](https://twitter.com/michWills99/status/1413536266826698766?s=20) - __TIL__
+- [x] 10/07: [JSON stringify and parse](https://twitter.com/michWills99/status/1414002349077667844?s=20) - __TIL__
+- [x] 12/07: [Set union](https://twitter.com/michWills99/status/1414646156022452228?s=20) - __TIL__
+- [x] 13/07: [Property order](https://twitter.com/michWills99/status/1414979135957577745?s=20) - __TIL__
 
 ### Execute Program
 
@@ -36,4 +37,5 @@
 - [x] 09/07 ___Modern JS___: Classes, Function name property
 - [x] 10/07 ___Modern JS___: JSON stringify and parse
 - [x] 12/07 ___Modern JS___: Set operations, Class scoping, Extending classes, String keyed methods.
+- [x] 13/07 ___Modern JS___: Customising JSON serialisation, Property order. ___Regular Expressions___: Literals, Cat Quiz, Wildcard, Boundaries, Single phrase. ___SQL___: Basic tables
 
