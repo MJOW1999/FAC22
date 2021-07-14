@@ -46,3 +46,19 @@
   .justify-space-between {
     justify-content: space-between;
   }
+  main{
+    background-color: #5E574D;
+    text-align: center;
+  }
+  .pallete1{
+    background-color: #c3dfe0;
+  }
+  .pallete2{
+    background-color: #bcd979;
+  }
+  .pallete3{
+    background-color: #9dad6f;
+  }
+  .pallete4{
+    background-color: #7d6d61;
+  }
