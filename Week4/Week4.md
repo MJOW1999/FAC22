@@ -8,7 +8,7 @@
 
 - [ ] __Git and GitHub__: Upload learnings from this week.
 - [x] __Linting and formatting__: Install Prettier - DONE PRIOR
-- [ ] __Linting and formatting__: Install ESLint
+- [x] __Linting and formatting__: Install ESLint - DONE 16/07
 - [ ] __Technical Spikes__: __Checking our code__ using [How To Format Code with Prettier in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code), [ESLint Getting Started](https://eslint.org/docs/user-guide/getting-started) and [ESLint About](https://eslint.org/docs/about/) - DONE 
 - [ ] __JS30__: Complete [14 Must Know Dev Tools Tricks](https://courses.wesbos.com/account/access/60d7a25c8981fd4f947017c5/view/194129876) - 
 - [ ] __JS30__: Complete [Hold Shift to Check Multiple Checkboxes](https://courses.wesbos.com/account/access/60d7a25c8981fd4f947017c5/view/194129765) - 
