@@ -16,7 +16,7 @@
 - [ ] **Khan Academy**: Continue algorithms course.
 - [ ] **Project**: Work on [agency pair project](https://github.com/fac22/Michael-Elena-Agency) with Elena.
 - [ ] **Employment**: Research Myles Palmer (\_Founder & Creative Director - **Companion Studio\_**)
-- [ ] **Employment**: Research Siebe Van Dijck (\_Head of Engineering - **Spill\_**)
+- [ ] **Employment**: Research Matt King (\_Head of Engineering - **Spill\_**)
 
 ### Twitter TIL or retweet
 
