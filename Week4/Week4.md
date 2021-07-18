@@ -26,3 +26,4 @@
 ### Execute Program
 
 - [x] 16/07: **_Modern JS_**: Anonymous and inline classes
+- [x] 18/07: **_Regular Expressions_**: Repetition, Words starting and ending in t
