@@ -78,3 +78,4 @@
 - Won't be sticking to the same role.
 - _What was more challenging the learning of the programming (FAC) or the job afterwards?_ Matt: Different feel, at Spill it would be a longer term project. Gio: Mainly job hunting was more difficult.
 - _How do you measure success?_ Use OKRs, using Objectives - company to try and buy Spill, to get Key Results - 500 compainies working with. Ask for feedback after the seesions and the councillors get scored. Send user feedback to HR.
+- [Blog on working at Spill](https://klinger.io/post/654608607896272896/joining-hypergrowth-startups)
