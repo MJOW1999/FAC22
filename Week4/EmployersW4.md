@@ -15,6 +15,29 @@
 
 ### Notes
 
+- First to give us a powerpoint presentation.
+- A guy called Josh joined in with Myles today
+- Companion's name is inspired by accosiated with the words open, honest, knowledgeable, dependable, by your side.
+- Started Companion to help fulfil the creative and business potential of companies, collaborators and colleagues - look to have a good work life balance and maintain quality.
+- The Studio is about 34 weeks old, founded officially in November 2020.
+- Worked on an app called **Linma** - making art more accessible, using machine learning to price the art.
+- Working on many interesting projects around 8-10 currently.
+- Created a platform called **Pair Up** which helps with mentoring.
+- Myles previously worked with IKEA through his previous company among many others including Ivy Park and David Beckham.
+- Always disect every brief and prioritise the musts and maybes before starting.
+- Myles is a self-taught coder.
+- Full-time team of 5 currently. Adding 1 person a month. Ambition to have a team of 10 - 12 ideally.
+- Using a stack of React, Nextjs, Nodejs and Sanity. Keeping an eye on Svelte and Solid JS.
+- Aim to donate 5% of their revenue to causes the studio cares about.
+- Aim to share business earnings as pubically as possible.
+- Use collaborators fairly frequently, used animators for a previous project. Mainly use freelancers currently as the team is small (around 65% of overhead currently).
+- Would ask what the key 3 features the clients want.
+- Project length: 4w - 9m. Average 4m.
+- Myles and Josh are both self-taught developers
+- free js discord is a useful resource
+- Time track everything to make sure their estimates are correct, team members also hold each other accountable for the time they are working.
+- Make sure to be firm in telling the client if something is out of scope and would significantly reduce the project timeline.
+
 ---
 
 # Matt King (\_Head of Engineering - **Spill\_**)
