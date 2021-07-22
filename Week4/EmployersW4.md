@@ -56,3 +56,25 @@
 4. What type of support can you offer employees at your company regarding mental health?
 
 ### Notes
+
+- A woman named Gio joined in too.
+- Both Matt and Gio have been through FAC.
+- Given us a powerpoint presentation, being treated today.
+- Gio is a new Spill hire, joined in October 2020 and was on FAC19. Did 2 Tech for Better projects.
+- Mental Health startup in Dalston.
+- 250 clients in the space of a year - Huel, Depop, Typeform and Citymapper.
+- Product led company. Did 100 calls to users about the team.
+- Engineering Team of 4, hiring 2 more seniors and probably a FAC memeber.
+- Stack: Node, Nest, TypeScript, GraphQL, Postgres
+- Looking for someone excited about the mission, someone that builds things, and a fullstack person.
+- Matt most valuable experience to become a developer is the community.
+- Gio most valuable experience at FAC is learning the process to solve problems and enjoy the process.
+- Examples of the product: Minimum Viable Product - built 14 MVPs. Had brainstorming sessions each week in order to solve problems and went away to build something. One MVP is a wall of praise, someone is nominated at random and each other member gives them an anonymous piece of praise. Another is building a user manual like FAC's one.
+- MH Support: Mental Health days are a thing, access to a Spill therapist. Have Spill Bank Holidays, help manages burnout. Also do 1-to-1s.
+- Let go half of the team when transitioning from an app to Slack integration. The remaining members took a massive salary cut.
+- Gio: When she started Spill it was fast paced, Matt helped her transition helped greatly and there was another junior at the time. Learnt through trial and error. Gabriel was a mentor at FAC and that helped her in asking questions and them knowing where she was coming from.
+- Matt: Learning by doing was a good transition.
+- Main qualites looking for: Desire to learn, good communication, being fine with ambigiouity.
+- Won't be sticking to the same role.
+- _What was more challenging the learning of the programming (FAC) or the job afterwards?_ Matt: Different feel, at Spill it would be a longer term project. Gio: Mainly job hunting was more difficult.
+- _How do you measure success?_ Use OKRs, using Objectives - company to try and buy Spill, to get Key Results - 500 compainies working with. Ask for feedback after the seesions and the councillors get scored. Send user feedback to HR.
