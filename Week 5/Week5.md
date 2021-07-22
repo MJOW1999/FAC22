@@ -15,6 +15,9 @@
 - [] **Project**: Work on new User Stories on the [agency pair project](https://github.com/fac22/Michael-Elena-Agency) with Elena.
 - [] **Employment**: Research Joe Friel (\_Co-Founder & Full Stack Developer - **Yalla\_**) - DONE
 - [] **Employment**: Research Ken Pemberton (\_Head of Development - **We Got POP\_**) - DONE
+- [] **Employment**: Start on a first draft of a tech CV.
+- [] **LinkedIn**: Connect with FAC cohort and staff and update your profile.
+- [x] **Other**: Check your GitHub rank on [techierank](https://techierank.com/#MJOW1999/52b89ade65099d49e9da9876de388acc). - DONE 22/07. **Current Rank: Top 37.63%**
 
 ### Twitter TIL or retweet
 
