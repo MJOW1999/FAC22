@@ -21,8 +21,9 @@
 
 ### Twitter TIL or retweet
 
-- [x] 22/07: [Git Branches Tutorial](https://twitter.com/freeCodeCamp/status/1415718302635200518?s=20) - **Retweet**
+- [x] 23/07: [Character Sets](https://twitter.com/michWills99/status/1418688312013905920?s=20) - **TIL**
 
 ### Execute Program
 
 - [x] 22/07: **_Regular Expressions_**: Basic character sets, Maybe, Plural, American long-distance phone number, Character classes, One character and space
+- [x] 23/07: **_Regular Expressions_**: Character sets, Word boundaries, Dogs only, Constrained repitition, Match hex codes
