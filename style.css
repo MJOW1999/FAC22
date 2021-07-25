@@ -1,64 +1,113 @@
 .center {
-    max-width: 40rem;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .width-sm {
-    max-width: 20rem;
-  }
-  
-  .width-lg {
-    max-width: 60rem;
-  }
-  
-  .stack-sm > * + * {
-    margin-top: 0.5rem;
-  }
-  
-  .stack-md > * + * {
-    margin-top: 1rem;
-  }
-  
-  .stack-lg > * + * {
-    margin-top: 2rem;
-  }
-  
-  .stack-xl > * + * {
-    margin-top: 4rem;
-  }
-  
-  .row {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-    align-items: center;
-  }
-  
-  .gap-lg {
-    gap: 2rem;
-  }
-  
-  .gap-xl {
-    gap: 4rem;
-  }
-  
-  .justify-space-between {
-    justify-content: space-between;
-  }
-  main{
-    background-color: #5E574D;
-    text-align: center;
-  }
-  .pallete1{
-    background-color: #c3dfe0;
-  }
-  .pallete2{
-    background-color: #bcd979;
-  }
-  .pallete3{
-    background-color: #9dad6f;
-  }
-  .pallete4{
-    background-color: #7d6d61;
-  }
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.width-sm {
+  max-width: 20rem;
+}
+
+.width-lg {
+  max-width: 60rem;
+}
+
+.stack-sm > * + * {
+  margin-top: 0.5rem;
+}
+
+.stack-md > * + * {
+  margin-top: 1rem;
+}
+
+.stack-lg > * + * {
+  margin-top: 2rem;
+}
+
+.stack-xl > * + * {
+  margin-top: 4rem;
+}
+
+.row {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.gap-lg {
+  gap: 2rem;
+}
+
+.gap-xl {
+  gap: 4rem;
+}
+
+.justify-space-between {
+  justify-content: space-between;
+}
+main {
+  /* background-color: #5e574d; */
+  text-align: center;
+}
+.pallete1 {
+  background-color: #c3dfe0;
+}
+.pallete2 {
+  background-color: #bcd979;
+}
+.pallete3 {
+  background-color: #9dad6f;
+}
+.pallete4 {
+  background-color: #7d6d61;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 80rem;
+  margin: 0 auto; /* center the 80rem wide container within the page */
+  padding: 2rem;
+  font-family: system-ui;
+  background-color: aliceblue;
+}
+
+section {
+  margin-top: 4rem;
+}
+
+.grid {
+  display: grid;
+  /* create an automatic grid that fits as many columns that are at least 14rem wide as possible */
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  grid-gap: 2rem;
+}
+
+.card {
+  border-radius: 8px;
+  /* two layered box shadows give a more natural floaty effect */
+  box-shadow: 0 2px 2px hsla(180, 10%, 20%, 0.2),
+    0 8px 20px hsla(180, 10%, 20%, 0.3);
+  overflow: hidden; /* stop the image poking out of the top at the rounded corners */
+  background-color: white;
+}
+
+.card__image {
+  width: 100%;
+  object-fit: cover; /* stops the image getting squished as the card's size changes */
+}
+
+.card__body {
+  padding: 1rem;
+}
+
+.card__title {
+  margin: 0;
+  line-height: 1;
+  text-transform: capitalize; /* make the first letter of each word uppercase */
+}
+b {
+  color: firebrick;
+}
