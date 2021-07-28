@@ -85,6 +85,12 @@ const week1 = [
       image: "https://source.unsplash.com/400x300?1",
       week: "Week 5",
     },
+    {
+      title: "MEA Robotics",
+      summary: "Paired agency project with Elena",
+      image: "#",
+      week: "Week 5"
+    }
   ];
 
   const containerElement1 = document.querySelector("#container1");
