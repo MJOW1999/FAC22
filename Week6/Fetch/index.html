@@ -8,9 +8,24 @@
   <body>
     <h1>Open the console</h1>
     <script>
-      // Challenge 1
+      // Challenge 1 - Make a fetch request
       const poke = fetch("https://pokeapi.co/api/v2/pokemon/pikachu");
       console.log(poke);
+
+      // Task 1
+      const GetUser = (username) =>
+        fetch(`https://api.github.com/users/${username}`).then((response) =>
+          response.json()
+        );
+
+      GetUser("mjow1999").then((user) => console.log(user)).catch((error) => console.log(error));
+
+      // Task 2
+      const getRepos = (obj) => fetch(obj.repos_url).then((response) => response.json());
+      GetUser("mjow1999")
+        .then(getRepos)
+        .then((user) => console.log(user))
+        .catch((error) => console.log(error));
     </script>
   </body>
 </html>
