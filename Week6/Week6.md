@@ -6,8 +6,8 @@
 
 ## To-do list:
 
-- [] **Fetch**: Complete [Fetch workshop]() - _135 minutes_ - DONE
-- [] **Promises**: Complete [Promises workshop]() - _120 minutes_ - DONE
+- [] **Fetch**: Complete [Fetch workshop](https://learn.foundersandcoders.com/workshops/learn-fetch/) - _135 minutes_ - DONE
+- [] **Promises**: Complete [Promises workshop](https://learn.foundersandcoders.com/workshops/promise-practice/) - _120 minutes_ - DONE
 - [] **Execute Program**: Continue with _Modern JavaScript_, _Concurrency_, _Regular Expressions_ & _SQL_.
 - [] **Khan Academy**: Continue algorithms course. - DONE
 - [] **Project**: Work on getting repo set up for the [app pair project]() with Alex.
@@ -16,4 +16,8 @@
 
 ### Twitter TIL or retweet
 
+- [x] 29/07: [setTimeout interval 0](https://twitter.com/michWills99/status/1420730551225442312?s=20) - **TIL**
+
 ### Execute Program
+
+- [x] 29/07: **_Concurrency_**: setTimeout and functions, Concurrent setTimeouts, clearTimeout, Sequential setTimeouts
