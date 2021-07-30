@@ -19,6 +19,23 @@
 
 ### Notes
 
+- One of the first to do Tech for Better projects
+- Everyone in Yalla is a coding bootcamp graduate
+- Gave us a presentation
+- Work with a lot of different people and like experimenting
+- They believe in transcending borders through technology makes them stronger in designing tools ...
+- Similar work processes to FAC.
+- Been working on a mental health training app with NHS Wales and building an app to help people get through Universal Credit.
+- Tech Stack: React, Node express, Mongo, PostgreSQL, Webflow, Dialogflow, Wordpress (not so much). Always trying new things.
+- Looking for someone more interested in the other parts of the development lifecycle, like UX and/or Design and/or Scrum.
+- They value a proactive person (flexible working week), caring, creative and wants to build something.
+- Would be a shareholder if you join the company.
+- Have general meetings every two weeks, and decisions are based on a voting round and general concensus.
+- They do weekly Arabic sessions together.
+- They look to ensure that a new recruits want to keep learning.
+- Offer a one-month warranty for bug fixing after handing over the product.
+- Need another UX person, Joe is the only one currently.
+
 # Ken Pemberton (\_Head of Development - **We Got POP\_**)
 
 ## About
@@ -38,3 +55,14 @@
 3. What type of person are you looking for?
 
 ### Notes
+
+- Ken was joined Nori, Robert and Mona
+- Ken tried to give us a presentation but couldn't work Zoom
+- Nori was from FAC9, Ken is head of development, Robert is the head to technology and Mona is the head of people.
+- Development team is the largest team in POP.
+- The product is an ultra HR system, which deals with high budget TV and Film projects.
+- Have a few introductory sessions and videos to get you caught up on the industry POP is in.
+- They help new members through ongoing conversations and fairly close mentoring.
+- They didn't really show me anything fun about working there, when I asked Nori about a general day, she spoke mainly about meeting after meeting.
+- Have over 25 developers in their team.
+- PostgreSQL, Python, Typescript and React.
