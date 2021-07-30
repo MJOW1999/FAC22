@@ -6,8 +6,8 @@
 
 ## To-do list:
 
-- [] **Fetch**: Complete [Fetch workshop](https://learn.foundersandcoders.com/workshops/learn-fetch/) - _135 minutes_ - DONE
-- [] **Promises**: Complete [Promises workshop](https://learn.foundersandcoders.com/workshops/promise-practice/) - _120 minutes_ - DONE
+- [x] **Fetch**: Complete [Fetch workshop](https://learn.foundersandcoders.com/workshops/learn-fetch/) - _135 minutes_ - DONE 29/07
+- [x] **Promises**: Complete [Promises workshop](https://learn.foundersandcoders.com/workshops/promise-practice/) - _120 minutes_ - DONE 30/07
 - [] **Execute Program**: Continue with _Modern JavaScript_, _Concurrency_, _Regular Expressions_ & _SQL_.
 - [] **Khan Academy**: Continue algorithms course. - DONE
 - [] **Project**: Work on getting repo set up for the [app pair project]() with Alex.
@@ -21,3 +21,4 @@
 ### Execute Program
 
 - [x] 29/07: **_Concurrency_**: setTimeout and functions, Concurrent setTimeouts, clearTimeout, Sequential setTimeouts
+- [x] 30/07: **_Concurrency_**: Promise then, setInterval and clearInterval, Promises are asychronous
