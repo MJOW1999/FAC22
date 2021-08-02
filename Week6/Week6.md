@@ -8,9 +8,9 @@
 
 - [x] **Fetch**: Complete [Fetch workshop](https://learn.foundersandcoders.com/workshops/learn-fetch/) - _135 minutes_ - DONE 29/07
 - [x] **Promises**: Complete [Promises workshop](https://learn.foundersandcoders.com/workshops/promise-practice/) - _120 minutes_ - DONE 30/07
-- [] **Execute Program**: Continue with _Modern JavaScript_, _Concurrency_, _Regular Expressions_ & _SQL_.
+- [x] **Execute Program**: Continue with _Modern JavaScript_, _Concurrency_, _Regular Expressions_ & _SQL_.
 - [] **Khan Academy**: Continue algorithms course. - DONE
-- [] **Project**: Work on getting repo set up for the [app pair project]() with Alex.
+- [x] **Project**: Work on getting repo set up for the [app pair project](https://github.com/fac22/michaelAlexAPI) with Alex.
 - [] **Employment**: Research [Gemma Copeland](https://gemmacope.land/) (\_Digital Designer - **Common Knowledge\_**) - DONE
 - [] **Employment**: Research [Martyn Hoyer](https://www.linkedin.com/in/martynhoyer/?originalSubdomain=uk) (\_Software Engineering Manager - **Ticketmaster\_**) - DONE
 
@@ -22,3 +22,4 @@
 
 - [x] 29/07: **_Concurrency_**: setTimeout and functions, Concurrent setTimeouts, clearTimeout, Sequential setTimeouts
 - [x] 30/07: **_Concurrency_**: Promise then, setInterval and clearInterval, Promises are asychronous
+- [x] 02/08: **_Concurrency_**: Omitting promise values, What's inside a promise?, What's inside a timeout?
