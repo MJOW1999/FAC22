@@ -10,5 +10,23 @@
     <h1>Contact</h1>
 
     <!-- Your form goes here -->
+    <form action="https://learn-forms.netlify.com/submit/part3">
+        <label for = "name">Name</label> <input type ="text" name = "name">
+        <label for = "email">Email</label><input type ="email" name = "email">
+        <label for = "telephone">Phone</label><input type ="text" name = "tel">
+        <label for = "message">Message</label><textarea name="message" id="textarea" cols="30" rows="10"></textarea>
+        <label for = "marketingConsent">Marketing</label><input type ="radio" name="marketingConsent">
+     
+        <fieldset>
+            <legend>Preffered contact method</legend>
+            <input type ="radio" name="contact" id = "Email">
+            <label for = "Email">Email</label>
+            <input type ="radio" name="contact" id = "Phone">
+            <label for = "Telephone">Telephone</label>
+            <input type ="radio" name="contact" id = "Post">
+            <label for = "Post">Post</label>
+     </fieldset>
+     <button type ="submit">Submit</button>
+    </form>
   </body>
 </html>
