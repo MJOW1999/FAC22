@@ -42,16 +42,33 @@
             </section>
         </main> --->
     <main>
+        <h1>Welcome to my learning page!</h1>
         <section>
             <h2>Projects</h2>
             <div id="projects" class="grid"></div>
+        </section>
+
+        <section>
+            <h2>TIL</h2>
+            <div id = "TIL" class="grid"></div>
         </section>
 
         <template id="articleTemplate">
             <article class="card">
               <img alt="" class="card__image">
               <div class="card__body">
-                <h3 class="card__title"></h3>
+                <a target = "_blank"><h3 class="card__title"></h3></a>
+                <b></b>
+                <p></p>
+              </div>
+            </article>
+        </template>
+
+        <template id="tilTemplate">
+            <article class="card">
+              <img alt="" class="card__image">
+              <div class="card__body">
+                <a><h3 class="card__title"></h3></a>
                 <b></b>
                 <p></p>
               </div>

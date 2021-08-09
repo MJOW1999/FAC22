@@ -22,8 +22,8 @@
 ### Twitter TIL or retweet
 
 - [x] 23/07: [Character Sets](https://twitter.com/michWills99/status/1418688312013905920?s=20) - **TIL**
-- [x] 24/07: [Regular Expressions Completed](https://twitter.com/michWills99/status/1419066015720280064?s=20)
-- [x] 25/07: [Arrays: Ref vs Copy](https://twitter.com/michWills99/status/1419341891062095872?s=20)
+- [x] 24/07: [Regular Expressions Completed](https://twitter.com/michWills99/status/1419066015720280064?s=20) - **TIL**
+- [x] 25/07: [Arrays: Ref vs Copy](https://twitter.com/michWills99/status/1419341891062095872?s=20) - **TIL**
 
 ### Execute Program
 
