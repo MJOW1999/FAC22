@@ -13,6 +13,54 @@
       function square(x) {
         return x * x;
       }
+      const equal = (a,e) => {
+        if(a === e){
+          console.log(`Correct. We expected ${e} and got ${a}`)
+        }else{
+          console.error(`Something went wrong. Expected: ${e}. Actual: ${a}`);
+        }
+      } 
+      const result1 = square(2);
+      const expected1 = 4;
+
+      const result2 = 15;
+      const expected2 = square(4);
+      
+      equal(result1, expected1);
+      equal(result2, expected2);
+
+      const notEqual = (r,e) => {
+        if(r !== e){
+          console.info(`Pass: ${e} is different to ${r}`);
+        }else{
+          console.error(`Fail: ${e} is the same as ${r}`);
+        }
+      }
+      notEqual(8, square(3));
+
+      function equal1(actual, expected, message) {
+        const defaultMessage = `Expected ${expected} and received ${actual}`;
+        if (actual === expected) {
+          console.info("Pass: " + (message || defaultMessage));
+        } else {
+          console.error("Fail: " + (message || defaultMessage));
+        }
+      }
+
+      function notEqual1(actual, expected, message) {
+        const defaultMessage = `${expected} is different to ${actual}`;
+        if (actual !== expected) {
+          console.info("Pass: " + (message || defaultMessage));
+        } else {
+          console.error("Fail: " + (message || defaultMessage));
+        }
+      }
+
+      test("Correctly squares integers", () => {
+        const result = square(2);
+        const expected = 4;
+        equal1(result, expected, "square(2) should return 4");
+      });
     </script>
   </body>
 </html>
