@@ -16,7 +16,9 @@
 
 ## Info
 
-- All developers who completed the ftp without an apprenticeship did a Tech for Better project
+- All developers who completed the ftp without an apprenticeship did a Tech for Better project.
+- They plan to set up a digital agency that will offer a 'Tech for Better apprenticeship'
+- [Expression of interest page](https://www.foundersandcoders.com/tech-for-better)
 
 ## Nafisa and Evgeny
 
