@@ -10,6 +10,8 @@
 - [] **Unit Testing**: Complete [Unit testing workshop](https://learn.foundersandcoders.com/workshops/learn-unit-testing/) - _90 minutes_ -
 - [] **Execute Program**: Continue with _Modern JavaScript_, _Concurrency_, _Regular Expressions_ & _SQL_.
 - [] **Khan Academy**: Continue algorithms course. - DONE
+- [] **Employment**: Research [Jamie Elliot](https://www.linkedin.com/in/jamielynnelliott/?originalSubdomain=uk) (\_Agile Delivery Manager - **Lightful\_**)
+- [] **Employment**: Research [James Warren](https://www.linkedin.com/in/jamesjwarren/?originalSubdomain=uk) (\_Technical Director - **SOON \_**)
 
 ### Twitter TIL or retweet
 
