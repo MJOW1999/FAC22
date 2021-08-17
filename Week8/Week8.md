@@ -10,8 +10,10 @@
 - [] **Unit Testing**: Complete [Unit testing workshop](https://learn.foundersandcoders.com/workshops/learn-unit-testing/) - _90 minutes_ -
 - [] **Execute Program**: Continue with _Modern JavaScript_, _Concurrency_, _Regular Expressions_ & _SQL_.
 - [] **Khan Academy**: Continue algorithms course. - DONE
-- [] **Employment**: Research [Jamie Elliot](https://www.linkedin.com/in/jamielynnelliott/?originalSubdomain=uk) (\_Agile Delivery Manager - **Lightful\_**)
 - [] **Employment**: Research [James Warren](https://www.linkedin.com/in/jamesjwarren/?originalSubdomain=uk) (\_Technical Director - **SOON \_**)
+- [x] **Employment**: Prepare for **Ticketmaster** interview on 16/08
+- [x] **Employment**: Prepare for **Companion Studio** interview and complete the [coding challenge](https://companionstudio.notion.site/Companion-Code-Challenge-9269172773a248339825ad5640c6816c) for 16/08
+- [x] **Employment**: Prepare for **Yalla** interview on 17/08
 
 ### Twitter TIL or retweet
 

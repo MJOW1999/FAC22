@@ -139,7 +139,7 @@ const week1 = [
         "Get your booster set with the MTG API site!",
       image: "https://source.unsplash.com/400x300?0",
       week: "Week 7",
-      link: "",
+      link: "https://fac22.github.io/michaelAlexAPI/",
     },
   ]
 
