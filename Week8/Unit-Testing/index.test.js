@@ -5,17 +5,18 @@ test("makeUrl should create the correct PokéAPI URL", () => {
 });
 
 // Challenge 2 - Deep Equality
-test("searchParamsToObject should create an object from a querystring", (t) => {
+test("searchParamsToObject should create an object from a string", (t) => {
     const actual = searchParamsToObject("name=oliver&email=hello@oliverjam.es");
     const expected = { name: "oliver", email: "hello@oliverjam.es" };
     equal(actual.name, expected.name);
     equal(actual.email, expected.email);
 });
 
+
 // Challenge 3 - Edge-cases
 test("isLeapYear should handle invalid input", () => {
     equal(isLeapYear("hi"), "Please enter a number", "Input must be a number");
-    equal(isLeapYear(-1), "Year cannot be negative", "Input must be positive");
+    equal(isLeapYear(-1), "Enter a valid year", "Input must be positive");
     equal(isLeapYear(2023), false, "2023 should not be a leap year");
   });
   
