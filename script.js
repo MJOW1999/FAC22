@@ -95,27 +95,28 @@ const week1 = [
       title: "Fetch Workshop",
       summary:
         "Fetching Github Usernames!",
-      image: "https://source.unsplash.com/400x300?0",
+      image: "Images/ghuser.jpeg",
       week: "Week 6",
-      link: "",
+      link: "https://mjow1999.github.io/FAC22/Week6/Fetch/",
     },
     {
       title: "Promise Practice 1",
       summary:
         "Returning traffic light colours after a delay!",
-      image: "https://source.unsplash.com/400x300?0",
+      image: "Images/traffic-light.jpeg",
       week: "Week 6",
-      link: "",
+      link: "https://mjow1999.github.io/FAC22/Week6/Promise/challenge-1/",
     },
     {
       title: "Promise Practice 2",
       summary:
         "Playing with the Pokemon API!",
-      image: "https://source.unsplash.com/400x300?0",
+      image: "Images/poke.jpeg",
       week: "Week 6",
-      link: "",
+      link: "https://mjow1999.github.io/FAC22/Week6/Promise/challenge-2/",
     },
   ]
+
   const week7 = [
     {
       title: "HTML Forms",
@@ -123,7 +124,7 @@ const week1 = [
         "HTML Forms Workshop!",
       image: "https://source.unsplash.com/400x300?0",
       week: "Week 7",
-      link: "",
+      link: "https://mjow1999.github.io/FAC22/Week7/HTML-Forms/",
     },
     {
       title: "Real-world fetch",
@@ -131,15 +132,45 @@ const week1 = [
         "Choose your Pokemon with the Pokemon API",
       image: "https://source.unsplash.com/400x300?0",
       week: "Week 7",
-      link: "",
+      link: "https://mjow1999.github.io/FAC22/Week7/RW-Fetch/",
     },
     {
       title: "Magic the Gathering API",
       summary:
         "Get your booster set with the MTG API site!",
-      image: "https://source.unsplash.com/400x300?0",
+      image: "Images/mtg.jpeg",
       week: "Week 7",
       link: "https://fac22.github.io/michaelAlexAPI/",
+    },
+  ]
+
+  const week8 = [
+    {
+      title: "Testing",
+      summary:
+        "Starting our learning of testing!",
+      image: "https://source.unsplash.com/400x300?0",
+      week: "Week 8",
+      link: "https://mjow1999.github.io/FAC22/Week8/Testing/",
+    },
+    {
+      title: "Unit Testing",
+      summary:
+        "More testing",
+      image: "https://source.unsplash.com/400x300?0",
+      week: "Week 8",
+      link: "https://mjow1999.github.io/FAC22/Week8/Unit-Testing/",
+    },
+  ]
+
+  const week9 = [
+    {
+      title: "Integration Testing",
+      summary:
+        "Even more testing, this time with a calculator!",
+      image: "Images/calculator.jpeg",
+      week: "Week 9",
+      link: "https://mjow1999.github.io/FAC22/Week9/Integration-Testing/",
     },
   ]
 
@@ -171,7 +202,7 @@ const week1 = [
     {
       title: "for..of/for..in loops",
       summary: "Learning about different types of for loops",
-      image: "",
+      image: "Images/loop.jpeg",
       week: "Week 1",
       link: "https://twitter.com/michWills99/status/1407055829069664260?s=20"
     },
@@ -291,6 +322,24 @@ const week1 = [
       link: "https://twitter.com/michWills99/status/1422635162559565829?s=20"
     },
   ]
+  const til7 = [
+    {
+      title: "Promise.all",
+      summary: "We always keep all of our promises!",
+      image: "Images/Promise.all example.PNG",
+      week: "Week 7",
+      link: "https://twitter.com/michWills99/status/1424646955809099779?s=20"
+    }
+  ]
+  const til9 = [
+    {
+      title: "Sleep",
+      summary: "Time to learn the importance of sleep",
+      image: "Images/sleep.jpeg",
+      week: "Week 9",
+      link: "https://twitter.com/michWills99/status/1429178086503952384?s=20"
+    }
+  ]
   
   function createTILUsingTemplate(article) {
     const { title, summary, image, week, link } = article;
@@ -306,6 +355,8 @@ const week1 = [
     tilContainer.appendChild(domFragment);
   }
 
+  week9.forEach(createCardUsingTemplate)
+  week8.forEach(createCardUsingTemplate)
   week7.forEach(createCardUsingTemplate)
   week6.forEach(createCardUsingTemplate)
   week1.forEach(createCardUsingTemplate);
@@ -321,3 +372,4 @@ const week1 = [
   til5.forEach(createTILUsingTemplate);
   til6.forEach(createTILUsingTemplate);
   til7.forEach(createTILUsingTemplate);
+  til9.forEach(createTILUsingTemplate);
