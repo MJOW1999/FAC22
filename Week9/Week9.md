@@ -7,7 +7,7 @@
 ## To-do list:
 
 - [x] **Integration Testing**: Complete [Integration Testing workshop](https://learn.foundersandcoders.com/workshops/learn-integration-testing/) - DONE 21/08
-- [x] **Execute Program**: Continue with _Modern JavaScript_, _Concurrency_, _Regular Expressions_ & _SQL_.
+- [x] **Execute Program**: Continue with _Modern JavaScript_, _Concurrency_, _Typescript_ & _SQL_.
 - [] **Khan Academy**: Continue algorithms course. - DONE
 
 ### Twitter TIL or retweet
