@@ -17,3 +17,4 @@
 ### Execute Program
 
 - [x] 21/08: **_Concurrency_**: Sleep, Multiple awaits, Control flow with async/await
+- [x] 23/08: **_Concurrency_**: Async/await gotchas, Async/await in arrow functions, Error handling in async functions - COMPLETED **CONCURRENCY**. **_TypeScript_**: Basic types, Type error, Operators, JavaScript builtins, Inference, Functions, Pluralise, Add or subtract, Using operators
