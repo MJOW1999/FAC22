@@ -101,8 +101,31 @@ How do different testing methodologies try to improve the way we write tests?
 - [Behavior Driven Development and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2)
 - [Test Coverage](https://www.martinfowler.com/bliki/TestCoverage.html)
 
-### 1. What is Test-Driven Development (TDD)? Can it help us write better code?What is Prettier? How might it help us write better code?
+### 1. What is Test-Driven Development (TDD)? Can it help us write better code?
+
+**Test-Driven Development** has three steps:
+
+1. Before you write implementation code, write some code that proves that the implementation works or fails. Watch the test fail before moving to the next step
+2. Write the implementation code and watch the test pass.
+3. Refactor if needed. You should feel confident refactoring your code now that you have a test to tell you if you’ve broken something.
+
+TDD helps us write better code by keeping UI components to a minimum.
+
+---
 
 ### 2. What is Behavior-Driven Development (BDD)? How do we translate user requirements into automated tests?
 
+**Behavior Driven Development** is a branch of Test Driven Development which uses human-readable descriptions of software user requirements as the basis for software tests.
+
+---
+
 ### 3. What is test coverage? Can this tell us about the _quality_ of our tests?
+
+**Test coverage** is a useful tool for finding untested parts of a codebase.
+
+Test coverage is of little use as a numeric statement of how good your tests are.
+
+A way to check if you're doing enough tests is if the following is met:
+
+- You rarely get bugs that escape into production
+- You are rarely hesitant to change some code for fear it will cause production bugs.
