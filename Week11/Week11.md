@@ -13,3 +13,5 @@
 ### Twitter TIL or retweet
 
 ### Execute Program
+
+- [x] 02/09: **_Modern JS_**: Accessor properties on classes, Static methods, Computed methods and accessors
