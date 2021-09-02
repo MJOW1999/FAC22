@@ -22,3 +22,15 @@ test("map() should return an array with the same number of elements", () => {
     const result = map([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], (x) => x + 1);
     equal(result[9], 11);
   })
+
+  // Test filter
+  test("filter should return the same array when all elements fit the criteria", () => {
+    const arr = [1,2,3]
+    equal(filter(arr, (x) => x < 5), [1,2,3]);
+  })
+
+  test("filter should remove elements that don't fit the criteria", () => {
+    const arr = [1,2,3];
+    equal(filter(arr, (x) => x % 2 === 0), [2])
+  })
+ 
