@@ -33,4 +33,15 @@ test("map() should return an array with the same number of elements", () => {
     const arr = [1,2,3];
     equal(filter(arr, (x) => x % 2 === 0), [2])
   })
+
+  // Test every
+  test("every should return true if all the array elements fit the criteria", () => {
+    const arr = [1,2,3];
+    equal(every(arr, (x) => x < 5), true);
+  })
+  test("every should return false if at least one element does not fit the criteria", () => {
+    const arr = [1,2,3];
+    equal(every(arr, (x) => x < 0), false);
+    equal(every(arr, (x) => x % 3 === 0), false)
+  })
  

@@ -23,3 +23,15 @@ function filter(arr, fn){
     }
     return filteredArray;
 }
+
+// every
+
+function every(arr, fn){
+    const filteredArray = [];
+    for (let i = 0; i < arr.length; i++) {
+        const element = arr[i];
+        const shouldKeep = fn(element, i);
+        if (shouldKeep) filteredArray.push(element);
+    }
+    return filteredArray.length === arr.length;
+}
