@@ -44,4 +44,19 @@ test("map() should return an array with the same number of elements", () => {
     equal(every(arr, (x) => x < 0), false);
     equal(every(arr, (x) => x % 3 === 0), false)
   })
+
+  // Test some
+  test("some should return true if at least one of the elements fit the criteria", () => {
+    const arr = [1,2,3];
+    equal(some(arr, (x) => x % 3 === 0), true, "3 is divisble by 3") // 1 element is true (3)
+    equal(some(arr, (x) => x % 2 === 1), true, "1 and 3 are odd numbers") // 2 odd numbers
+    equal(some(arr, (x) => x === 2), true)
+  })
+
+  test("some should return false if all of the elements do not fit the criteria", () => {
+    const arr = [1,2,3];
+    equal(some(arr, (x) => x % 4 === 0), false, "None of the numbers are divisible by 4") // 1 element is true (3)
+    equal(some(arr, (x) => x > 5), false, "All numbers are less than or equal to 5") // 2 odd numbers
+    
+  })
  

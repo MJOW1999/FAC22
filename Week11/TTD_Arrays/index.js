@@ -35,3 +35,15 @@ function every(arr, fn){
     }
     return filteredArray.length === arr.length;
 }
+
+// some
+
+function some(arr, fn){
+    const filteredArray = [];
+    for (let i = 0; i < arr.length; i++) {
+        const element = arr[i];
+        const shouldKeep = fn(element, i);
+        if (shouldKeep) filteredArray.push(element);
+    }
+    return filteredArray.length > 0;
+}
