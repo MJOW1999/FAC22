@@ -15,4 +15,4 @@
 ### Execute Program
 
 - [x] 02/09: **_Modern JS_**: Accessor properties on classes, Static methods, Computed methods and accessors
-- [x] 03/09: **_Modern JS_**: Symbol basics, Builtin Symbols, Defining iterators
+- [x] 03/09: **_Modern JS_**: Symbol basics, Builtin Symbols, Defining iterators.
