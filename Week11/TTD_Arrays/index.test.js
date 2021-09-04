@@ -59,4 +59,44 @@ test("map() should return an array with the same number of elements", () => {
     equal(some(arr, (x) => x > 5), false, "All numbers are less than or equal to 5") // 2 odd numbers
     
   })
+
+  // testing find()
+
+test("find() should return the first element that passes the test", () => {
+  const result = find([100, 200], (x) => x > 10);
+  equal(result, 100);
+});
+
+test("find() should return the undefined if no element passes the test", () => {
+  const result = find([1, 2], (x) => x > 10);
+  equal(result, undefined);
+});
+
+// testing reduce()
+
+test("reduce() should call the fn for each element and use the return value as the new accumulator", () => {
+  const result = reduce([1, 2, 3], (total, x) => total + x, 0);
+  equal(result, 6);
+});
+
+test("reduce() should use the first element of array if no accumulator passed", () => {
+  const result = reduce([1, 2, 3], (total, x) => total + x);
+  equal(result, 6);
+});
+
+// testing flat()
+
+test("flat() should turn a nested array into a single-level array", () => {
+  const result = flat([1, [2, 3]]);
+  equal(result[0], 1);
+  equal(result[1], 2);
+  equal(result[2], 3);
+});
+
+test("flat() should flatten nested arrays 2 levels deep", () => {
+  const result = flat([1, [2, [3]]], 2);
+  equal(result[0], 1);
+  equal(result[1], 2);
+  equal(result[2], 3);
+});
  
