@@ -17,3 +17,4 @@
 - [x] 02/09: **_Modern JS_**: Accessor properties on classes, Static methods, Computed methods and accessors
 - [x] 03/09: **_Modern JS_**: Symbol basics, Builtin Symbols, Defining iterators.
 - [x] 04/09: **_Modern JS_**: Problems with object keys, Iterators, Symbols are metadata
+- [x] 07/09: **_TypeScript Basics_**: Arrays, Array identity, Type keyword, Syntax errors vs type errors, Syntax error, Return type inference
