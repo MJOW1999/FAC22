@@ -18,4 +18,5 @@
 - [x] 03/09: **_Modern JS_**: Symbol basics, Builtin Symbols, Defining iterators.
 - [x] 04/09: **_Modern JS_**: Problems with object keys, Iterators, Symbols are metadata
 - [x] 07/09: **_TypeScript Basics_**: Arrays, Array identity, Type keyword, Syntax errors vs type errors, Syntax error, Return type inference
-- [x] 09/09: **_Modern JS_**: Maps, Map iterators
+- [x] 09/09: **_Modern JS_**: Maps, Map iterators - COMPLETED MODERN JAVASCRIPT
+- [x] 10/09: **_TypeScript Basics_**: Object types, Type syntax is consistent, Tuples
