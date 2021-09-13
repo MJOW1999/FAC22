@@ -1,4 +1,4 @@
-# Week 11 (03/09/21 - 10/09/21) - Testing 4
+# Week 11 (03/09/21 - 26/09/21) - Testing 4
 
 > [Schedule for Week 11](https://learn.foundersandcoders.com/course/syllabus/pre-app-12/schedule/).
 
@@ -20,3 +20,4 @@
 - [x] 07/09: **_TypeScript Basics_**: Arrays, Array identity, Type keyword, Syntax errors vs type errors, Syntax error, Return type inference
 - [x] 09/09: **_Modern JS_**: Maps, Map iterators - COMPLETED MODERN JAVASCRIPT
 - [x] 10/09: **_TypeScript Basics_**: Object types, Type syntax is consistent, Tuples
+- [x] 13/09: **_TypeScript Basics_**: Select from tuple, Type unions, Stringify, Generic arrays, Literal object types, Destructuring with literal objects, Function types, Writing a function type
