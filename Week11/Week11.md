@@ -21,3 +21,4 @@
 - [x] 09/09: **_Modern JS_**: Maps, Map iterators - COMPLETED MODERN JAVASCRIPT
 - [x] 10/09: **_TypeScript Basics_**: Object types, Type syntax is consistent, Tuples
 - [x] 13/09: **_TypeScript Basics_**: Select from tuple, Type unions, Stringify, Generic arrays, Literal object types, Destructuring with literal objects, Function types, Writing a function type
+- [x] 14/09: **_TypeScript Basics_**: Literal types, Add or subtract with union, Generic functions, Generic first function, Generic length, Generic identity function, Object narrowing, Name property, Generic object types, Object type with holes
