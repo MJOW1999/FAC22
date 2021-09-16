@@ -23,3 +23,4 @@
 - [x] 13/09: **_TypeScript Basics_**: Select from tuple, Type unions, Stringify, Generic arrays, Literal object types, Destructuring with literal objects, Function types, Writing a function type
 - [x] 14/09: **_TypeScript Basics_**: Literal types, Add or subtract with union, Generic functions, Generic first function, Generic length, Generic identity function, Object narrowing, Name property, Generic object types, Object type with holes
 - [x] 15/09: **_TypeScript Basics_**: Conditional narrowing, Has logged in, Generic first with narrowing, Generic function inference, Generic function types
+- [x] 16/09: **_TypeScript Basics_**: Nullability, Parse nullable string, Undefined in arrays - **TYPESCRIPT BASICS COMPLETED**
